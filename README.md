@@ -1,3 +1,8 @@
-## express app
+# Express App
 
-Access with browser http://localhost:8080
+Simple Node.js + Express application.
+
+## Run locally
+
+```bash
+docker run -p 8080:8080 zrdax/express-app
